@@ -25,11 +25,13 @@
     "@nextui-org/react": "^2.6.11",
     "@react-aria/visually-hidden": "3.8.25",
     "@react-types/shared": "3.30.0",
+    "@stomp/stompjs": "^7.1.1",
     "clsx": "2.1.1",
     "framer-motion": "11.15.0",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-router-dom": "^7.6.2",
+    "sockjs-client": "^1.6.1",
     "tailwind-variants": "0.3.0",
     "tailwindcss": "3.4.16"
   },
